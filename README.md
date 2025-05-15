@@ -49,5 +49,5 @@ Olá! Sou uma profissional apaixonada por ciência de dados, com experiência em
 
 ## 📌 Contato
 
-* LinkedIn: \[Seu LinkedIn]
-* GitHub: \[Seu GitHub]
+* LinkedIn: \[https://www.linkedin.com/in/deboracambraia/]
+* e-mail: deboraccambraia@gmail.com
