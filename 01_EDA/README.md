@@ -1,18 +1,18 @@
-# Análise Exploratória de Dados (EDA)
+# Análise Exploratória de Dados (EDA) - Global Terrorism Database
 
 ## 📌 Objetivo
 
-Explorar um conjunto de dados utilizando técnicas de Análise Exploratória (EDA), identificando padrões, tendências e insights que possam guiar decisões.
+Explorar o conjunto de dados de terrorismo global (Global Terrorism Database) para identificar padrões, tendências e insights relevantes.
 
 ## 📊 Descrição do Projeto
 
-Este projeto tem como objetivo aplicar técnicas de EDA para entender os dados, identificar possíveis correlações e descobrir insights relevantes. Utilizaremos Python para manipulação e visualização dos dados.
+Este projeto tem como objetivo aplicar técnicas de Análise Exploratória de Dados (EDA) para entender os dados de incidentes terroristas ao redor do mundo. Utilizaremos Python para manipulação e visualização dos dados.
 
 ## 📂 Estrutura do Projeto
 
-* `data/` : Contém o dataset utilizado.
-* `notebooks/` : Notebook Jupyter com o código da análise.
-* `images/` : Visualizações geradas durante a análise.
+* `data/`: Contém o dataset utilizado.
+* `notebooks/`: Notebook Jupyter com o código da análise.
+* `images/`: Visualizações geradas durante a análise (opcional).
 
 ## 🚀 Ferramentas Utilizadas
 
@@ -22,9 +22,9 @@ Este projeto tem como objetivo aplicar técnicas de EDA para entender os dados, 
 
 ## 📌 Dataset Utilizado
 
-* Nome: \[Nome do Dataset]
-* Fonte: \[Link da Fonte]
-* Descrição: \[Breve descrição dos dados, variáveis e quantidade de registros]
+* Nome: Global Terrorism Database
+* Fonte: [Global Terrorism Database](https://www.start.umd.edu/gtd/)
+* Descrição: Contém informações sobre incidentes terroristas em todo o mundo desde 1970.
 
 ## 📊 Análise Realizada
 
@@ -36,29 +36,12 @@ Este projeto tem como objetivo aplicar técnicas de EDA para entender os dados, 
 
 ## ✅ Resultados Obtidos
 
-* \[Resumo dos principais insights encontrados].
-* \[Análise de correlação entre variáveis].
-* \[Visualizações mais importantes].
+* Resumo dos principais insights encontrados.
+* Análise de correlação entre variáveis.
+* Visualizações mais importantes.
 
 ## 🚦 Como Executar o Projeto
 
 1. Clone este repositório:
-
    ```bash
    git clone https://github.com/seuusuario/portfolio-ciencia-de-dados.git
-   ```
-2. Navegue até a pasta do projeto:
-
-   ```bash
-   cd portfolio-ciencia-de-dados/01_EDA
-   ```
-3. Abra o notebook Jupyter:
-
-   ```bash
-   jupyter notebook notebooks/analise_eda.ipynb
-   ```
-
-## 📌 Contato
-
-* LinkedIn: \[Seu LinkedIn]
-* GitHub: \[Seu GitHub]
