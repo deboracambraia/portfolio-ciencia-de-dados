@@ -2,7 +2,7 @@
 
 ## 👋 Sobre Mim
 
-Olá! Sou uma profissional apaixonada por ciência de dados, com experiência em engenharia civil e MBA em Ciência de Dados pela USP-SALC. Este portfólio reúne projetos que desenvolvi para explorar e aplicar técnicas de ciência de dados, aprendizado de máquina e visualização de dados.
+Olá! Sou uma profissional apaixonada por ciência de dados, com experiência em engenharia civil e MBA em Ciência de Dados pela USP-ESALQ. Este portfólio reúne projetos que desenvolvi para explorar e aplicar técnicas de ciência de dados, aprendizado de máquina e visualização de dados.
 
 ## 🚀 Projetos
 
